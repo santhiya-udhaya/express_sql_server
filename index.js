@@ -19,6 +19,6 @@ app.use("/api/users", userRoutes);
 
 app.listen(PORT,()=>{
     console.log(`your server is running in ${PORT}`);
-})
+});
 
 
